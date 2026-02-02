@@ -1,0 +1,10 @@
+county: "San Diego"
+min_price: 1000000
+days_back: 7
+
+output:
+  format: "csv"
+  path: "data/processed/sd_sales_last_7_days.csv"
+
+logging:
+  level: "INFO"
